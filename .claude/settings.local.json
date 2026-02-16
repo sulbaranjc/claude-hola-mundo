@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth status:*)",
+      "Bash(curl:*)",
+      "Bash(~/bin/gh auth status:*)",
+      "Bash(~/bin/gh auth login:*)",
+      "Bash(gh repo create:*)"
+    ]
+  }
+}
