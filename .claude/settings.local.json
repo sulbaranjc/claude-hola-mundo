@@ -5,7 +5,12 @@
       "Bash(curl:*)",
       "Bash(~/bin/gh auth status:*)",
       "Bash(~/bin/gh auth login:*)",
-      "Bash(gh repo create:*)"
+      "Bash(gh repo create:*)",
+      "Bash(git checkout:*)",
+      "Bash(git push:*)",
+      "Bash(git branch:*)",
+      "Bash(gh repo edit:*)",
+      "Bash(git remote set-head:*)"
     ]
   }
 }
